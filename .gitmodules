@@ -1,0 +1,3 @@
+[submodule "CFXS_UI_Profiler/vendor/spdlog"]
+	path = CFXS_UI_Profiler/vendor/spdlog
+	url = https://github.com/CFXS/spdlog.git

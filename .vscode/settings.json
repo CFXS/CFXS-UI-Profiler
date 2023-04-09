@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ui": "xml",
+        "*.qrc": "xml",
+        "filesystem": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "xlocmes": "cpp",
+        "xiosbase": "cpp",
+        "qapplication": "cpp",
+        "qstylefactory": "cpp"
+    }
+}
